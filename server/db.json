@@ -1,0 +1,25 @@
+{
+  "streams": [
+    {
+      "title": "stream",
+      "description": "this is a message",
+      "id": 1
+    },
+    {
+      "title": "Other stream",
+      "description": "Here is another stream",
+      "id": 2
+    },
+    {
+      "title": "This stream is edited",
+      "description": "Watch me refactor some components",
+      "id": 5
+    },
+    {
+      "title": "Test1",
+      "description": "This is a test for bolded title",
+      "userId": "114951499016593824804",
+      "id": 6
+    }
+  ]
+}
